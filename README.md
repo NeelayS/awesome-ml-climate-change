@@ -2,21 +2,21 @@
 
 ## Contents
 
- - [Papers](#Papers)
- - [Theses](#Theses)
- - [Testbeds](#Testbeds)
- - [Datasets](#Datasets)
- - [Workshops](#Workshops)
- - [Challenges](#Challenges)
+ - [Papers](#papers)
+ - [Theses](#theses)
+ - [Testbeds](#testbeds)
+ - [Datasets](#datasets)
+ - [Workshops](#workshops)
+ - [Challenges](#challenges)
 
-## Papers<a name="Papers"></a>
+## Papers<a name="papers"></a>
 
-## Theses<a name="Theses"></a>
+## Theses<a name="theses"></a>
 
-## Testbeds<a name="Testbeds"></a>
+## Testbeds<a name="testbeds"></a>
 
-## Datasets<a name="Datasets"></a>
+## Datasets<a name="datasets"></a>
 
-## Workshops<a name="Workshops"></a>
+## Workshops<a name="workshops"></a>
 
-## Challenges<a name="Challenges"></a>
+## Challenges<a name="challenges"></a>
