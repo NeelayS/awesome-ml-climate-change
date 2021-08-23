@@ -9,14 +9,14 @@
  - [Workshops](#workshops)
  - [Challenges](#challenges)
 
-## Papers<a name="papers"></a>
+## Papers
 
-## Theses<a name="theses"></a>
+## Theses
 
-## Testbeds<a name="testbeds"></a>
+## Testbeds
 
-## Datasets<a name="datasets"></a>
+## Datasets
 
-## Workshops<a name="workshops"></a>
+## Workshops
 
-## Challenges<a name="challenges"></a>
+## Challenges
