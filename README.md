@@ -3,7 +3,7 @@
 ## Contents
 
  - [Papers](#papers)
- - [Theses](#theses)
+<!--  - [Theses](#theses) -->
  - [Testbeds](#testbeds)
  - [Datasets](#datasets)
  - [Workshops](#workshops)
@@ -13,7 +13,7 @@
 
 ##### • Tackling Climate Change with Machine Learning | [PDF](https://arxiv.org/abs/1906.05433)
 
-## Theses
+<!-- ## Theses -->
 
 ## Testbeds
 
