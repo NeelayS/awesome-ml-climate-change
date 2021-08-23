@@ -1,5 +1,7 @@
 # awesome-ml-climate-change
 
+A collection of resources concerning the use of machine learning to tackle climate change
+
 ## Contents
 
  - [Papers](#papers)
