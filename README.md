@@ -3,15 +3,15 @@
 ## Contents
 
  - [Papers](#papers)
-<!--  - [Theses](#theses) -->
  - [Testbeds](#testbeds)
  - [Datasets](#datasets)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
+ <!--  - [Theses](#theses) -->
 
 ## Papers
 
-##### • Tackling Climate Change with Machine Learning | [PDF](https://arxiv.org/abs/1906.05433)
+- Tackling Climate Change with Machine Learning | [PDF](https://arxiv.org/abs/1906.05433)
 
 <!-- ## Theses -->
 
@@ -20,5 +20,7 @@
 ## Datasets
 
 ## Workshops
+
+- NeurIPS 2021 Workshop: Tackling Climate Change with Machine Learning | [Website](https://www.climatechange.ai/events/neurips2021.html)
 
 ## Challenges
